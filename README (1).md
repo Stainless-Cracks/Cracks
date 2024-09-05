@@ -3,7 +3,7 @@
 > If you use AIMr, please consider giving us a ⭐!
 > <br>Yes, we are obfuscated, its because people were trying to steal AIMr, no malware, no stealers, you can ask in our discord.
 
-<h1 align="center">https://discord.gg/AIMr</h1>
+<h1 align="center">[https://discord.gg/bYcTzvYB]</h1>
 
 
 ![AIMr](https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/KREk0tS.gif)
@@ -13,7 +13,7 @@
 
 
   
-[![discord server](https://dcbadge.limes.pink/api/server/aimr)](https://discord.gg/AIMr)
+[![discord server](https://dcbadge.limes.pink/api/server/aimr)](https://discord.gg/bYcTzvYB)
 
 ![views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkbdevs%2Fai-aimbot&count_bg=%239279B5&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=Views&edge_flat=false) ![GitHub top language](https://img.shields.io/github/languages/top/ai-aimbot/aimr?labelColor=%235B5B5B&color=%23907FB0) 
 
@@ -24,7 +24,7 @@
 </div>
 <br>
 
-# **[(WAY BETTER) PAID VERSION IN OUR DISCORD](https://discord.gg/AIMr)** <br>
+# **[(WAY BETTER) PAID VERSION IN OUR DISCORD](https://discord.gg/dZP6GuQa)** <br>
 - **DirectML version (can be 2x faster than pytorch)**
   - Works on AMD/Intel/NVIDIA
 - **Pytorch version (like 3x faster than cpu)**
@@ -49,7 +49,7 @@ AIMr leverages many modern technologies to achieve an undetected ai aimbot syste
 
 AIMr works on any game that uses human shaped models.
 
-NOTE: (NOT NECESSARY WITH THE BETA) To make it work to best of its potenial (3x better) you should build opencv with cuda, there is a guide in our [discord](https://discord.gg/AIMr).
+NOTE: (NOT NECESSARY WITH THE BETA) To make it work to best of its potenial (3x better) you should build opencv with cuda, there is a guide in our [discord](https://discord.gg/dZP6GuQa).
 
 (Working on a fix) ~~NOTICE: To make it work on valorant you need perks in our [discord](https://discord.gg/AIMr) and a [Arduino Leonardo R3](https://www.amazon.com/KEYESTUDIO-Leonardo-Development-Board-Arduino/dp/B0786LJQ8K)~~
 
